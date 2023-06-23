@@ -6,10 +6,13 @@
  react-router-dom, sttled-components, redux를 사용하여 만든 Todo List 사이트 입니다.
 
 
-## 🎬 구현 사이트 이미지
+## 🎬 구현 사이트
 
-- 업로드 예정
+- 배포 링크 : <https://todo-list-lv2-two.vercel.app/>
 
+![스크린샷 2023-06-23 오후 12 41 17](https://github.com/ParkJe2/react-Todo-List-Lv2/assets/117563796/39feef89-a348-43b7-9414-a23efcca4693)
+
+![스크린샷 2023-06-23 오후 12 42 10](https://github.com/ParkJe2/react-Todo-List-Lv2/assets/117563796/7c0d14c0-0d0f-48e5-89c5-752a64cfeb0d)
 
 ## 🕰️ 개발 기간
 
@@ -38,6 +41,8 @@
 - Todo의 완료상태가 `true`이면, 상태 버튼을 '취소', false`이면 '완료'로 보이도록 구현합니다.
 - 전체 화면의 최대 넓이는 `1200px`, 최소 넓이는 `800px`로 제한하고, 컨텐츠를 화면의 가운데로 배치합니다.
 - `상세보기` 클릭하면 Todo의 상세 페이지로 이동합니다.
+
+### 상세 페이지
 - 상세 페이지의 디자인과 화면 구성은 자유롭게 구현하되, 아래 요소들은 보여야 합니다.
  1. Todo의 ID
  2. Todo의 제목
