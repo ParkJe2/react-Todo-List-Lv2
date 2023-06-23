@@ -10,7 +10,7 @@
 
 - 배포 링크 : <https://todo-list-lv2-two.vercel.app/>
 
-[https://github.com/HiYongA/MyTodoList2/assets/120562771/66b13b76-146b-43d4-8374-7e853d7a21d8]
+![Jun-23-2023 12-53-09](https://github.com/HiYongA/MyTodoList2/assets/120562771/66b13b76-146b-43d4-8374-7e853d7a21d8)
 
 ## 🕰️ 개발 기간
 
