@@ -10,9 +10,7 @@
 
 - 배포 링크 : <https://todo-list-lv2-two.vercel.app/>
 
-![스크린샷 2023-06-23 오후 12 41 17](https://github.com/ParkJe2/react-Todo-List-Lv2/assets/117563796/39feef89-a348-43b7-9414-a23efcca4693)
-
-![스크린샷 2023-06-23 오후 12 42 10](https://github.com/ParkJe2/react-Todo-List-Lv2/assets/117563796/7c0d14c0-0d0f-48e5-89c5-752a64cfeb0d)
+(https://github.com/HiYongA/MyTodoList2/assets/120562771/66b13b76-146b-43d4-8374-7e853d7a21d8)
 
 ## 🕰️ 개발 기간
 
